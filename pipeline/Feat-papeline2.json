@@ -1,0 +1,17 @@
+{
+	"name": "Feat-papeline2",
+	"properties": {
+		"activities": [
+			{
+				"name": "wait-feature2",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
